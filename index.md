@@ -1,5 +1,6 @@
 ---
-layout: null
+layout: default
+title: digabi.github.io
 ---
 # digabi.github.io
 
