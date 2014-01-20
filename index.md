@@ -4,14 +4,14 @@
 
 ## Repositories in GitHub
  
- - [digabi-live]: Live Linux distribution based on Debian testing 
+ - [digabi-live](/digabi-live/): Live Linux distribution based on Debian testing 
  (jessie)
- - [digabi-repository]: Config for Digabi APT repository (created with 
+ - [digabi-repository](/digabi-repository/): Config for Digabi APT repository (created with 
  `reprepro`) and `digabi-repository.deb`, which configure Digabi 
  repository for Debian-based system
- - [digabi-misc]: Miscellaneous, Digabi-related stuff.
- - [digabi-buildbox]: Debian package to configure build environment for 
- [digabi-live]
+ - [digabi-misc](/digabi-misc/): Miscellaneous, Digabi-related stuff.
+ - [digabi-buildbox](/digabi-buildbox/): Debian package to configure build environment for 
+ [digabi-live](/digabi-live/)
 
 
 For more details, see project website.
