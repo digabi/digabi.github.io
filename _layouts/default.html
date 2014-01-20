@@ -6,8 +6,19 @@
         <link rel="stylesheet" href="/common/style.css"/>
     </head>
     <body>
+        <div id="page">
+        <header>
+            <h1 class="site-title">{{ site.title }}</h1>
+            <h2 class="site-description">{{ site.description }}</h2>
+        </header>
     
-    {{ content }}
-    
+        <section id="main">
+            {{ content }}
+        </section>
+
+        <footer>
+            <p class="small quiet">&copy; 2014 <a href="http://www.ylioppilastutkinto.fi/">Ylioppilastutkintolautakunta</a></p>
+        </footer>    
+        </div>
     </body>
 </html>
