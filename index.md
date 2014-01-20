@@ -3,7 +3,8 @@ layout: null
 ---
 # digabi.github.io
 
-[Digabi project website](https://digabi.fi/)
+ - [Digabi project website](https://digabi.fi/)
+ - [Digabi in GitHub](https://github.com/digabi/)
 
 ## Repositories in GitHub
  
